@@ -1,0 +1,25 @@
+/* -- ESTILO PARRAFOS -- */
+p {
+    font-size: 15pt;
+    font-family: 'Lucida Sans',fantasy;
+    font-weight: normal;
+}
+
+/* -- ESTILOS H1 -- */
+h1{
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 750;
+    font-weight: 600;
+}
+
+h2{
+    font-family: 'times new roman';
+    font-size: 600;
+    font-weight: 300;
+}
+
+h3{
+    font-family: Arial;
+    font-size: 150;
+    font-weight: 100;
+}
