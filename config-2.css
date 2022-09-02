@@ -1,0 +1,10 @@
+/** --  BODY  -- **/
+    body {
+        background-color: coral;
+        color: grey;     
+    }
+    p {
+        font-size: xx-large;
+        font-weight: 70;
+        color: blue;
+    }
