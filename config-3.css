@@ -1,7 +1,5 @@
 /* --  BODY  -- */
-body{background-size: 200px;
-background-image: url("IMAGENES/Majin-Vegeta.jpg");
-background-size: cover;
+body{
 }
 
 /* -- ESTILO PARRAFOS -- */
@@ -14,6 +12,13 @@ p {
 
 
 /* -- ESTILOS TITULOS -- */
+
+#fondo{
+    background-size: 200px;
+    background-image: url("IMAGENES/Majin-Vegeta.jpg");
+background-size: cover;
+}
+
 h1{
     font-family: 'Times New Roman', sans-serif;
     font-size: 750;
