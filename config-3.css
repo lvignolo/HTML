@@ -15,8 +15,8 @@ h1{
     font-family: 'Times New Roman', sans-serif;
     font-size: 750;
     font-weight: 600;
-   /* background-color: red; */
-   background-size: 200px;
+    background-color: red; 
+    background-size: 200px;
     background-image: url("IMAGENES/Vegeta-Ultra-Ego-png.png");
     background-size: cover;
 }
