@@ -8,6 +8,9 @@ p {
     font-family: 'Lucida Sans',fantasy;
     font-weight: normal;
     border: 5px black dashed;
+    background-size: 200px;
+    background-image: url("IMAGENES/Vegeta-Ultra-Ego-png.png");
+    background-size: cover;
 }
 
 
@@ -17,10 +20,7 @@ h1{
     font-size: 750;
     font-weight: 600;
     background-color: red; 
-    background-size: 200px;
-    background-image: url("IMAGENES/Vegeta-Ultra-Ego-png.png");
-    background-size: cover;
-}
+   }
 
 h2{
     font-family: 'times new roman';
