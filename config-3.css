@@ -15,8 +15,8 @@ h1{
     font-family: 'Times New Roman', sans-serif;
     font-size: 750;
     font-weight: 600;
-    background-color: red;
-    background-image: url('./IMAGENES/logo.png');
+   /* background-color: red; */
+    background-image: url("IMAGENES/camo.png");
 }
 
 h2{
