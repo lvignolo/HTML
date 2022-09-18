@@ -16,6 +16,7 @@ h1{
     font-size: 750;
     font-weight: 600;
    /* background-color: red; */
+   background-size: 200px;
     background-image: url("IMAGENES/camo.png");
     background-size: cover;
 }
