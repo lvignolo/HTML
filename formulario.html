@@ -11,6 +11,7 @@
 <body>
     <main>
         <form action="" class="formulario" id="formulario">
+             <!-- GRUPO: NOMBRE   -->
             <div class="formulario_grupo" id="grupo_nombre">
                 <label for="nombre" class="formulario_label">Nombre</label>
                 <div class="formulario_grupo-input">
@@ -18,6 +19,33 @@
                     <i class="formulario_validacion-estado" class="fa-solid fa-circle-xmark"></i>
                 </div>
                 <p class="formulario_input-error">Solo se permiten letras.</p>
+            </div>
+            <!-- GRUPO: EMAIL   -->
+            <div class="formulario_grupo" id="grupo_email">
+                <label for="email" class="formulario_label">CORREO</label>
+                <div class="formulario_grupo-input">
+                    <input type="text" class="formulario_input" name="email" id="email" placeholder="luis@correo.com>
+                    <i class="formulario_validacion-estado" class="fa-solid fa-circle-xmark"></i>
+                </div>
+                <p class="formulario_input-error">Escriba su correo electronico.</p>
+            </div>
+            <!-- GRUPO: PASSWORD   -->
+            <div class="formulario_grupo" id="grupo_password">
+                <label for="password" class="formulario_label">Contraseña</label>
+                <div class="formulario_grupo-input">
+                    <input type="text" class="formulario_input" name="password" id="password">
+                    <i class="formulario_validacion-estado" class="fa-solid fa-circle-xmark"></i>
+                </div>
+                <p class="formulario_input-error">Escriba una contraseña, puede contener letras, simbolos, numeros.</p>
+            </div>
+            <!-- GRUPO: PASSWORD2   -->
+            <div class="formulario_grupo" id="grupo_password2">
+                <label for="password2" class="formulario_label">Contraseña</label>
+                <div class="formulario_grupo-input">
+                    <input type="text" class="formulario_input" name="password" id="password2">
+                    <i class="formulario_validacion-estado" class="fa-solid fa-circle-xmark"></i>
+                </div>
+                <p class="formulario_input-error">Las contraseñas deben ser iguales.</p>
             </div>
         </form>
     </main>
